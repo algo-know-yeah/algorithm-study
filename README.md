@@ -37,3 +37,15 @@ BOJ
     - string
     - dfs
     - greedy
+
+
+### 07-22
+BOJ
+[골드를 풀자 시즌 2](https://www.acmicpc.net/group/workbook/view/8373/24733)
+| id | title | algorithm|
+|-|-|-|
+| 9694 | [무엇을 아느냐가 아니라 누구를 아느냐가 문제다](https://www.acmicpc.net/problem/9694) | 다익스트라(경로 포함) |
+| 9505 | [엔터프라이즈호 탈출](https://www.acmicpc.net/problem/9505) | BFS |
+| 9007 | [카누 선수](https://www.acmicpc.net/problem/9007) | 이분 탐색 |
+| 3066 | [브리징 시그널](https://www.acmicpc.net/problem/3066) | LIS |
+| 5850 | [Perimeter](https://www.acmicpc.net/problem/5850) | DFS |
